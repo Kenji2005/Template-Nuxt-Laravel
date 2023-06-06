@@ -1,5 +1,0 @@
-<template>
-    <Danger>
-        
-    </Danger>
-</template>
