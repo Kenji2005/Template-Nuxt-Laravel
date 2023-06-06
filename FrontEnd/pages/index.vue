@@ -91,6 +91,12 @@
             return{
                 showPassword:false
             }
+        },
+        head() {
+            return {
+                title: "Login page"
+            };
         }
+        
     }
 </script>
