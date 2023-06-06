@@ -1,2 +1,2 @@
-# Template-Vue-Laravel
-Template Pribadi buat component component dengan vue js, dengan laravel sebagai backend
+# Template-Nuxt-Laravel
+Template Pribadi buat component component dengan nuxt js, dengan laravel sebagai backend
